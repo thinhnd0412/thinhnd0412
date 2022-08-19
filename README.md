@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thinhnd0412
 - 👀 I’m interested in statistical and econometric models in economics, business and social sciences
-- 🌱 I’m currently learning Quantitative Economics at Kiel University
+- 🌱 I’m currently a Master student of the Quantitative Economics program at Kiel University (Germany)
 - 📫 Reach me via ndthinh0412@gmail.com 
 
 <!---
